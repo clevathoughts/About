@@ -1,0 +1,46 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>+
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
+
+
+	</head>
+<body>
+
+
+<title>ABOUT</title>
+<div class="container">
+	<img src="about us.jpg" alt="Notebook" style="width:100%;"> </div>
+
+<h1>ABOUT US</h1>
+
+<p>
+Welcome!</p>
+
+<p>This website is here to assist employees in calculating their income tax. </p>
+<p>
+HOW TO USE THIS SITE
+
+<ol>1. Employees should login</ol>
+<ol>2. Go to the tab that says income tax</ol>
+<ol>3. Input your annual pay, filing status, and deductions</ol>
+<ol>4. Submit to calculate your results!</ol>
+<ol><b>If you should have any concerns please contact us by submitting your number and email address.</b></ol>
+
+</p>
+
+
+
+<nav>
+  <ul>
+    
+    <li><a href="Index.html">Home</a></li>
+    <li><a href="incometax.html">Income Tax</a></li>
+    <li><a href="login.html">Employee Login</a></li>
+    <li><a href="contact.html">Contact Us</a></li>
+  </ul>
+</nav>
+
+</body>
+</html> 
